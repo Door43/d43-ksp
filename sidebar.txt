@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksp:home|Door43 (ksp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksp|d43-ksp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksp/archive/master.zip|d43-ksp.zip]]
+
+**Recent Changes**
+{{changes>ns = ksp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksp|Ethnologue data]]
+
